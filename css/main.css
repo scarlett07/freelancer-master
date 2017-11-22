@@ -50,7 +50,26 @@ footer>div>div>i{
   width: 33px;
   height: 33px;
 }
-input[type=submit]{
+button[type=button]{
+  background-color: #18BC9C;
+  padding: 20px;
+  color: white;
+  border: 1px solid white;
+  border-radius: 5%;
+  font-family: 'Lato', sans-serif;
+  font-size: large;
+}
+
+hr{
+  width: 200px;
+  height: 4px;
+  background-color: white;
+  border: none;
+}
+.icono{
+  background: #2C3E50;
+}
+.button{
   background-color: #18BC9C;
   padding: 20px;
   color: white;
