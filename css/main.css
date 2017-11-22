@@ -1,0 +1,136 @@
+body{
+  margin: 0 auto;
+  font-family: 'Montserrat', sans-serif;
+}
+
+header{
+  background-color: #2C3E50;
+  position: fixed;
+  width: 100%;
+  padding: 32px;
+}
+
+footer{
+  background-color: #2C3E50;
+  color: white;
+  text-align: center;
+}
+
+header>nav>div>a{
+  text-decoration: none;
+  color: white;
+  padding: 0px 20px;
+}
+section>div>h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 80px;
+  margin-bottom: 0px;
+}
+
+section>div>h4{
+  font-family: 'Lato', sans-serif;
+  font-size: x-large;
+  margin-top: 0px;
+}
+
+section>div>p{
+  display: inline-block;
+  text-align: left;
+  font-size: 130%;
+  font-family: 'Lato', sans-serif;
+  padding: 40px 15px;
+  line-height: 32px;
+
+}
+
+footer>div>div>i{
+  padding: 10px;
+  border-radius: 50%;
+  border: 1px solid white;
+  width: 33px;
+  height: 33px;
+}
+input[type=submit]{
+  background-color: #18BC9C;
+  padding: 20px;
+  color: white;
+  border: none;
+  border-radius: 10%;
+  font-family: 'Lato', sans-serif;
+  font-size: large;
+  margin-right: 45%;
+}
+.form{
+  border: none;
+  border-bottom: 1px solid gray;
+  font-family: 'Lato', sans-serif;
+  font-size: x-large;
+  width: 50%;
+  height: 100px;
+}
+
+.imagen{
+  width: 350px;
+  margin:15px;
+}
+
+.font-menu{
+  font-weight: bold;
+  font-size: xx-large;
+  padding: 0px 0px 0px 50px;
+}
+
+.final{
+  background-color: #1A252F;
+  margin: 0;
+  padding: 20px;
+  font-size: small;
+  font-family: 'Lato', sans-serif;
+}
+
+.font-title{
+  font-size: 300%;
+  margin: 50px 0px 0px 0px;
+}
+
+.clear {
+  clear: both;
+  padding: 200px 0px 100px 0px;
+}
+.margen{
+  padding: 60px;
+}
+
+.text-uppercase {
+  text-transform: uppercase;
+}
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+  margin: 0px 40px 0px 0px;
+  font-weight: bold;
+  font-size: medium;
+  padding: 13px 100px;
+}
+
+.secction-inicio{
+  background-color: #18BC9C;
+  color: white;
+  text-align: center;
+
+}
+.section-portafolio{
+  text-align: center;
+  color: #2C3E50;
+  padding: 30px;
+  margin bottom: 30px;
+}
+
+.position{
+  display: inline-block;
+  padding: 0px 20px;
+}
